@@ -1,1 +1,15 @@
 <!-- this is the new css page -->
+h1 {
+
+color: purple;
+
+}
+
+h2 {
+
+color: turquoise;
+font-family: monospace;
+text-decoration: underline;
+
+
+}
